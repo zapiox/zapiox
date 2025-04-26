@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋! My name is Zapiox</h1>
-<img align="center" border src="https://media.discordapp.net/attachments/1293291785803530240/1314299838942285864/banniere_zapioxx.jpg?ex=67b2d95c&is=67b187dc&hm=895a80049986335c0c8767daaf83bbd9633dc5d322058db8defc8ecda31c1389&=&width=1440&height=576"  />
+<img align="center" border src="https://cdn.discordapp.com/attachments/791811388280274987/1365810767680508056/banniere_zapioxx.jpg?ex=680ea9e6&is=680d5866&hm=5fa0a0af6038eb8263fddc40212f6a8307978e97682b7a3064f96075ab023c73&"  />
 
 ###
 
